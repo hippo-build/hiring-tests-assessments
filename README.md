@@ -1,11 +1,18 @@
-# Prueba tecnica:
+# Welcome to your React Interview
 
-## Creación de carrito de compra:
+> This round is to test your practical knowledge by getting done the missed features of a React application.
 
-- Cada película debe poderse agregar al carrito.
-- Poner la fecha al lado del nombre de la película.
-- Para estimar el precio de cada película se tiene en cuenta el año de publicación. 2022: 80000. 2021: 75000, 2020: 70000, 2019: 65000 y todas las demás a 50000.
-- Si la película ya se ha agregado, no debería poder agregarse de nuevo.
-- Si la película se encuentra en el carrito de compras mostrar el icono para quitarla en la vista de la película.
-- Crear el componente en el landing para ver cuantas películas y el valor total de carrito.
-- Crear una pagina para cuando se de click al carrito ver el resumen de la compra.
+Feel like you're working with your peers in a pair coding session on the missing project features; we encourage you to have a conversation during the test with the interviewers
+
+## Shopping Cart:
+
+This project consists of a movie store with some particular characteristics, such as only being able to buy one title per movie and prices that decrease over the years.
+- Each movie must be able to be added to the cart.
+- Put the date next to the name of the movie.
+- To set  each movie's price, consider the following pattern:  2022: 80,000. 2021: 75,000, 2020: 70,000, 2019: 65,000 and all others at 50,000.
+- If the movie is already in the cart, it should not be able to be added again.
+- If the movie is in the shopping cart, show the icon to remove it in the movie's view.
+- Create the component on the landing to see how many movies and the cart's total value.
+- Create a page for when you click on the cart to see the purchase summary.
+
+**Good luck!**
